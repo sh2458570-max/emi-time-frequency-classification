@@ -5,7 +5,7 @@ Course project on electromagnetic interference classification using STFT spectro
 **Author:** Xiaoyu Shang · Lisbon College, Shanghai University  
 **Course project** · May–June 2026
 
-[Read the full project report (PDF)](./Xiaoyu_Shang_EMI_Classification_Report.pdf)
+[Read the full project report (PDF)][(./Xiaoyu_Shang_EMI_Classification_Report.pdf)](https://github.com/sh2458570-max/emi-time-frequency-classification/blob/main/Xiaoyu_Shang_EMI_Classification_Report.pdf.pdf)
 
 ## Research question
 
